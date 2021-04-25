@@ -15,5 +15,7 @@ The required task is two write two functions, which will perform some textual an
 ## Project Details:
 ###### Technologies : Spark, AWS, Scala, SSH, Hadoop, MongoDB
 •Performed hot zone and hot cell analysis on large-scale spatial data using Spark to identify the top 30 hot zones.
+
 •Analyzed New York’s taxi data set to recognize high pick-up probability areas within New York and drivers canincrease their pick-up rate by 45% by abiding to the recommendations from the analysis.
+
 •Performed textual and spatial search using MongoDB to find all the businesses present in a particular city and tofind business names present in the maximum distance from the given location that covers all requested categories.
